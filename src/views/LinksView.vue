@@ -25,6 +25,11 @@ const data = [
   },
 */
   {
+    name: '糯米洛洛',
+    desc: '二次元视频专门站',
+    link: 'https://nuomill.com',
+  },
+  {
     name: '倾丞の小窝',
     desc: '倾丞的小窝，记录生活，分享乐趣',
     link: 'https://blog.qcmoe.com',
